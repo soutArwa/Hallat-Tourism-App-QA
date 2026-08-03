@@ -66,7 +66,7 @@ Hallat is a tourism application developed as a team project. My primary role was
 
 ### Codemagic Workflow
 
-![Codemagic Workflow](codemagic%20(2).png)
+![Codemagic Workflow](codemagicfinal%20.png)
 
 ---
 
